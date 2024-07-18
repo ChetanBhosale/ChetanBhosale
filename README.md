@@ -18,4 +18,4 @@ I love to watch anime!
 Twitter Instagram LinkedIn Stack Overflow
 
 💻 Tech Stack:
-NodeJS AWS CSS3 JavaScript HTML5 GraphQL PHP Python Solidity TypeScript Vercel Bootstrap Electron.js Chart.js Chakra Express.js Next JS MUI JWT Redux Socket.io React Router React TailwindCSS Yarn MongoDB MySQL Postgres Redis LINUX ESLint Jira Docker AWS Notion
+NodeJS AWS CSS3 JavaScript HTML5 GraphQL PHP Python TypeScript Vercel Bootstrap Electron.js Chart.js Chakra Express.js Next JS MUI JWT Redux Socket.io React Router React TailwindCSS Yarn MongoDB MySQL Postgres Redis LINUX ESLint Jira Docker AWS Notion
