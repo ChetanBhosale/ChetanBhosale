@@ -1,1 +1,2 @@
-I like to build software for Fun!
+Full Stack Dev
+Currently Exploring (DevOps + Data Distribution + GEN AI)
