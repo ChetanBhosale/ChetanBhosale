@@ -1,2 +1,1 @@
-Full Stack Dev
-Currently Exploring (DevOps + Data Distribution + GEN AI)
+Software Engineer, Love to build projects and scale Applications!
