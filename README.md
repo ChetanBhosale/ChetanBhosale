@@ -21,11 +21,8 @@ Focused on clean UI, strong backend systems, and cloud-ready architecture.
 
 ## 🚀 Work
 
-**Founding Engineer – Linkrunner**  
-Built APIs, dashboards & billing systems (Next.js, Node, Postgres, Redis, Docker)
+**Founding Engineer – Linkrunner** 
+Building Marketing Intelligence that is making marketers 100x marketers!
 
-**Software Engineer – TransErg LLP @ Petpooja**  
-Scaled platform to **10K+ daily users** using Node.js, React & AWS
-
-
-⭐ If you like my work, consider starring a repo
+Prev : **Software Engineer – @Petpooja**  
+Build : OOW (Scaled to 10k + Orders Daily), Studio (Managing millions of Images and serving Zomata and swiggy Systems)
