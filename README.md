@@ -16,10 +16,11 @@
 
 ## 👋 About Me
 
-I build **scalable full-stack applications** and **AI-powered products** that solve real problems.  
-Focused on clean UI, strong backend systems, and cloud-ready architecture.
+I am Chetan Bhoasle, Build code shift is my favoirte thing, I like sports like MMA, Cricket, Kabbadi, Batminton, etc...
+I have ADHD which has both negative and positive sides and positives are something which I like about it.
+thank you for supporting!
 
-## 🚀 Work
+🚀 Work
 
 **Founding Engineer – Linkrunner** 
 Building Marketing Intelligence that is making marketers 100x marketers!
