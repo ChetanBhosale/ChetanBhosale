@@ -22,8 +22,8 @@ thank you for supporting!
 
 🚀 Work
 
-**Founding Engineer – Linkrunner** 
+**Founding Engineer – Linkrunner** **RAISED 560k USD**
 Building Marketing Intelligence that is making marketers 100x marketers!
 
-Prev : **Software Engineer – @Petpooja**  
+Prev : **Software Engineer – @Petpooja** **RAISED 15.5 MIL USD**
 Build : OOW (Scaled to 10k + Orders Daily), Studio (Managing millions of Images and serving Zomata and swiggy Systems)
