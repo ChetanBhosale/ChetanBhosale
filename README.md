@@ -26,4 +26,4 @@ thank you for supporting!
 Building Marketing Intelligence that is making marketers 100x marketers!
 
 Prev : **Software Engineer – @Petpooja** **RAISED 15.5 MIL USD**
-Build : OOW (Scaled to 10k + Orders Daily), Studio (Managing millions of Images and serving Zomata and swiggy Systems)
+Build : OOW (Scaled to 10k + Orders Daily), Studio (Managing millions of Images and serving Zomata and swiggy Systems), Build Dining System (Petpooja Reservation Manager) now used by Zomato and swiggy build fully with 4 member tech team, handled entire backend infra
