@@ -12,7 +12,7 @@
 <div align="center">
 
 <a href="https://github.com/ChetanBhosale">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=780&lines=Founding+Engineer+%40+Linkrunner+(%24560K+raised);Full-Stack+Builder+%7C+AI+Infra+at+Scale;Real-time+pipelines+%7C+LLM+agents+%7C+RAG+%7C+Memory;Shipping+backend%2C+frontend+%26+infra+end-to-end;I+turn+0+into+1+and+1+into+production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=780&lines=Founding+Engineer+%40+Linkrunner+(%24560K+raised);Full-Stack+Builder+%7C+AI+Infra+at+Scale;Backend+%7C+Frontend+%7C+DevOps+%7C+LLM+agents;Kubernetes+%2B+Grafana+%2B+Prometheus+in+prod;I+turn+0+into+1+and+1+into+production." alt="Typing SVG" />
 </a>
 
 <!-- ===================== SOCIAL BADGES ======================= -->
@@ -36,38 +36,26 @@ role:      Founding Engineer @ Linkrunner  ($560K raised)
 prev:      PetPooja · Traserg LLP
 based_in:  India
 building:  AI infra + real-time backends + the frontends on top
-focus:     [ ai-infra, backend, frontend, distributed-systems, llmops ]
+focus:     [ ai-infra, backend, frontend, devops, distributed-systems ]
 ```
 
-- 🔭 Building **AI infrastructure** and **real-time data pipelines** in production at **Linkrunner**
-- 🧠 Shipping **LLM agents** with **RAG, long-term memory, and guardrails** — end to end
-- ⚡ Full-stack by default: from **Cloudflare Workers / Node backends** to **Next.js frontends**
-- 🧱 I like the boring-but-hard problems — queues, caching, retries, idempotency, cost
+- 🔭 Building **AI infrastructure** and **real-time backends** in production at **Linkrunner**
+- 🧠 Shipping **LLM agents** end-to-end — RAG, long-term memory, tool-calling & guardrails
+- ☸️ Running services on **Kubernetes** with **Grafana + Prometheus** dashboards, alerting & autoscaling
+- 🔧 Owning **CI/CD pipelines**, containerized deploys, and **gRPC** service-to-service comms
+- 💰 At **PetPooja**, drove **infra cost savings** by right-sizing compute + adding a Redis caching layer
+- ⚡ Full-stack by default: from **Node backends** to **Next.js frontends**, plus the DevOps in between
+- 🏆 Turned **0 → 1** on core systems at a funded startup and kept them reliable at scale
 - 🥋 Off the keyboard: MMA, cricket, kabaddi & badminton — and yes, I code with ADHD superpowers
 
 ---
 
-<!-- ===================== SHIPPED ============================= -->
-## 🛠️ What I've Shipped
-
-| Where | What | Impact |
-|-------|------|--------|
-| **Linkrunner** | Built real-time mobile-attribution ingestion on **Cloudflare Workers + Queues** | ⚡ **10M+** events/day, p99 < 50ms |
-| **Linkrunner** | Designed an **LLM agent platform** (RAG + memory + tool-calling) | 🤖 multi-provider gateway, **60%** token-cost cut |
-| **Linkrunner** | **Redis-backed parallel scraper** for social data enrichment | 🕸️ **8×** throughput vs. serial baseline |
-| **Linkrunner** | Vectorize-powered **long-term memory layer** for the AI companion | 🧠 sub-100ms semantic recall |
-| **Linkrunner** | Shipped the **Next.js dashboard** — feed, conversations, content studio | 🎨 end-to-end, design-system driven |
-| **PetPooja** | Scaled order + inventory **backend** across thousands of restaurants | 📈 **40%** latency drop via Redis caching |
-| **PetPooja** | Rebuilt reporting dashboards + optimized hot-path **SQL** | 🐢→🐇 heavy queries **5×** faster |
-
----
-
-<!-- ===================== TALKS / HIGHLIGHTS ================== -->
+<!-- ===================== HIGHLIGHTS ========================== -->
 ## ✨ Highlights
 
-> 🚀 **Founding Engineer** at a **$560K-raised** startup — owning AI infra, backend, and frontend
-> 🧠 Built production **LLM systems** with memory + RAG on a **Cloudflare-first** stack
-> ⚡ Comfortable from **kernel-of-the-pipeline** to **pixels-in-the-browser**
+> 🚀 **Founding Engineer** at a **$560K-raised** startup — owning AI infra, backend, frontend & DevOps
+> ☸️ Production **Kubernetes** platform with **Prometheus/Grafana** observability + CI/CD pipelines
+> 💰 Delivered measurable **cost savings** at PetPooja through smarter infra + caching
 
 ---
 
@@ -85,8 +73,8 @@ focus:     [ ai-infra, backend, frontend, distributed-systems, llmops ]
 **Backend & Frameworks**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 
@@ -97,72 +85,50 @@ focus:     [ ai-infra, backend, frontend, distributed-systems, llmops ]
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Cloud & Infra**
+**DevOps & Observability**
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Cloud & Data**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Data & Streaming**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Cloudflare D1](https://img.shields.io/badge/D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **AI / LLMOps**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vectorize](https://img.shields.io/badge/Vectorize-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-
----
-
-<!-- ===================== GITHUB STATS ======================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChetanBhosale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanBhosale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBhosale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChetanBhosale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-</div>
 
 ---
 
 <!-- ===================== FEATURED PROJECTS =================== -->
 ## 📌 Featured Projects
 
-### 🧠 [AuralenAI](https://github.com/ChetanBhosale/AuralenAI) — AI Application Platform
-Production-grade AI app built on a modern TypeScript stack — LLM orchestration, streaming, and a polished UX.
+### 🛰️ [geo-repair](https://github.com/ChetanBhosale/geo-repair)
+Geospatial data-repair toolkit — cleans, validates, and reconciles location data. *(update the one-liner to taste)*
 
-`TypeScript` `Next.js` `LLM` `RAG`
+`TypeScript`
 
-### ⚡ [redis-parallel-scraper](https://github.com/ChetanBhosale/redis-parallel-scraper) — High-Throughput Scraping Engine
-Redis-backed job queue that parallelizes scraping workers for **8×** throughput over a serial baseline.
+### 🧩 [dovia](https://github.com/ChetanBhosale/dovia)
+Full-stack TypeScript app — modern, typed, end-to-end. *(update the one-liner to taste)*
 
-`JavaScript` `Redis` `Queues` `Node.js`
+`TypeScript`
 
-### 🤖 [ai-agents](https://github.com/ChetanBhosale/ai-agents) — Agent Framework Playground
-Tool-calling agents with memory and multi-step reasoning — the sandbox behind the production agent work.
+### 📊 [TrafficMine](https://github.com/ChetanBhosale/TrafficMine)
+Traffic analytics & data-mining project surfacing insights from raw event streams. *(update the one-liner to taste)*
 
-`JavaScript` `LLM` `Agents`
-
-### 🛰️ [dovia](https://github.com/ChetanBhosale/dovia) · 📊 [TrafficMine](https://github.com/ChetanBhosale/TrafficMine)
-`TypeScript` · `JavaScript` — more full-stack + data projects on the profile.
+`JavaScript`
 
 ---
 
