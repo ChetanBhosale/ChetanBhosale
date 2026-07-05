@@ -115,15 +115,26 @@ focus:     [ ai-infra, backend, frontend, devops, distributed-systems ]
 <!-- ===================== FEATURED PROJECTS =================== -->
 ## 📌 Featured Projects
 
-### 🛰️ [geo-repair](https://github.com/ChetanBhosale/geo-repair)
-Geospatial data-repair toolkit — cleans, validates, and reconciles location data. *(update the one-liner to taste)*
+### 🛰️ [GEO Repair](https://geo.repair) — Make Your Site Visible to AI Search
+> *"Your site is invisible to AI search. We fix it — with a PR."*
 
-`TypeScript`
+A **Generative Engine Optimization** platform that scans a website the way an AI crawler (ChatGPT, Perplexity, Claude) sees it — **26 checks across 7 categories** (rendering, structured data, metadata, crawl surface, semantics, content, answerability) → a versioned **0–100 readiness score**. Then an **agentic harness** clones the repo into an isolated sandbox, applies the fixes, validates the **build + typecheck**, and opens a **pull request** for human review. Zero data retention, no model training.
 
-### 🧩 [dovia](https://github.com/ChetanBhosale/dovia)
-Full-stack TypeScript app — modern, typed, end-to-end. *(update the one-liner to taste)*
+- 🤖 **Agent harness** that clones → fixes → validates → opens a PR, fully sandboxed
+- ☁️ Scaled on **AWS** — **auto-scaling worker fleet** behind an **ALB**, isolated sandbox runners per job
+- 📊 Reproducible, versioned scoring rubric — consistent scores across scan → post-merge re-check
+- 🔒 Ephemeral sandboxes, **zero code retention**
 
-`TypeScript`
+`TypeScript` `Next.js` `AWS` `Auto Scaling` `ALB` `AI Agents` `Sandboxing`
+
+### 🧩 [Dovia](https://dovia-delta.vercel.app) — AI App Builder (a Lovable Alternative)
+Describe what you want and **Dovia builds it** — a prompt-to-app builder in the spirit of Lovable/v0, with **multi-model selection**, live preview, and one-click deploy. Turns natural-language intent into a working, editable full-stack app.
+
+- 🧠 **Multi-model** routing — pick the model per build
+- ⚡ Live preview + iterative edits, generate → refine → ship
+- 🚀 One-click deploy to production
+
+`TypeScript` `Next.js` `LLM` `Codegen` `AI App Builder`
 
 ### 📊 [TrafficMine](https://github.com/ChetanBhosale/TrafficMine)
 Traffic analytics & data-mining project surfacing insights from raw event streams. *(update the one-liner to taste)*
