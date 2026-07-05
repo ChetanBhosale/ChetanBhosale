@@ -139,10 +139,6 @@ Traffic analytics & data-mining project surfacing insights from raw event stream
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanBhosale&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
-<!-- Contribution snake — needs the Platane/snk GitHub Action to generate the SVG.
-     See setup note shared alongside this file. -->
-<img width="100%" src="https://raw.githubusercontent.com/ChetanBhosale/ChetanBhosale/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
 </div>
 
 ---
