@@ -53,9 +53,7 @@ focus:     [ ai-infra, backend, frontend, devops, distributed-systems ]
 <!-- ===================== HIGHLIGHTS ========================== -->
 ## ✨ Highlights
 
-> 🚀 **Founding Engineer** at a **$560K-raised** startup — owning AI infra, backend, frontend & DevOps
-> ☸️ Production **Kubernetes** platform with **Prometheus/Grafana** observability + CI/CD pipelines
-> 💰 Delivered measurable **cost savings** at PetPooja through smarter infra + caching
+> 🚀 **Founding Engineer** at a **$560K-raised** startup — backend, frontend & DevOps
 
 ---
 
