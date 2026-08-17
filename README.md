@@ -22,13 +22,13 @@ I enjoy taking complex systems, making them simpler, faster, and more reliable.
 
 ## 💼 Experience
 
-### Respan · Backend & Infrastructure Engineer
-
-Working on backend systems, infrastructure, data pipelines, and observability. Migrated large-scale data workloads from **PostgreSQL to ClickHouse**, improving analytical performance and scalability. Building better system reliability through **observability, monitoring, performance improvements, and infrastructure optimization**.
-
 ### Linkrunner · Founding Engineer
 
 Built core backend, frontend, cloud infrastructure, and distributed systems from **0 → 1**. Worked across data pipelines, cloud workers, production deployments, and scalable real-time systems.
+
+### Respan · Backend & Infrastructure Engineer
+
+Working on backend systems, infrastructure, data pipelines, and observability. Migrated large-scale data workloads from **PostgreSQL to ClickHouse**, improving analytical performance and scalability. Building better system reliability through **observability, monitoring, performance improvements, and infrastructure optimization**.
 
 ### PetPooja · Software Engineer
 
