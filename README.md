@@ -3,7 +3,7 @@
 **Full-Stack AI Engineer**
 
 Building scalable backend systems, cloud infrastructure, and AI-powered products.
-Currently working at **Respan (YC-backed)**, focused on backend engineering, infrastructure, and distributed systems.
+Currently working at **Linkrunner as Founding Engineer Full time and at Respan (YC-backed) contract part time**, focused on backend engineering, infrastructure, and distributed systems.
 I enjoy taking complex systems, making them simpler, faster, and more reliable.
 
 ## ⚡ Tech Stack
