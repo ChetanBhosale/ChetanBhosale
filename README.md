@@ -1,6 +1,6 @@
 # Chetan Bhosale
 
-**Backend & Infrastructure Engineer**
+**Full-Stack AI Engineer**
 
 Building scalable backend systems, cloud infrastructure, and AI-powered products.
 Currently working at **Respan (YC-backed)**, focused on backend engineering, infrastructure, and distributed systems.
