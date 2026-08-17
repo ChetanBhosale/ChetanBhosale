@@ -24,8 +24,6 @@ I enjoy taking complex systems, making them simpler, faster, and more reliable.
 
 ### Respan · Backend & Infrastructure Engineer
 
-**2026 → Present · YC-backed**
-
 Working on backend systems, infrastructure, data pipelines, and observability. Migrated large-scale data workloads from **PostgreSQL to ClickHouse**, improving analytical performance and scalability. Building better system reliability through **observability, monitoring, performance improvements, and infrastructure optimization**.
 
 ### Linkrunner · Founding Engineer
