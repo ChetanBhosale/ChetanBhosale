@@ -28,7 +28,7 @@ Built core backend, frontend, cloud infrastructure, and distributed systems from
 
 ### Respan · Backend & Infrastructure Engineer
 
-Working on backend systems, infrastructure, data pipelines, and observability. Migrated large-scale data workloads from **PostgreSQL to ClickHouse**, improving analytical performance and scalability. Building better system reliability through **observability, monitoring, performance improvements, and infrastructure optimization**.
+working in backend engineering team, helping in scaling observibility system and making things faster and smooth.
 
 ### PetPooja · Software Engineer
 
