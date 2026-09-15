@@ -2,10 +2,6 @@
 
 **Full-Stack AI Engineer**
 
-Building scalable backend systems, cloud infrastructure, and AI-powered products.
-Currently working at **Linkrunner as Founding Engineer Full time and at Respan (YC-backed) contract part time**, focused on backend engineering, infrastructure, and distributed systems.
-I enjoy taking complex systems, making them simpler, faster, and more reliable.
-
 ## ⚡ Tech Stack
 
 **Languages**
@@ -19,20 +15,6 @@ I enjoy taking complex systems, making them simpler, faster, and more reliable.
 
 **Frontend & AI**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square\&logo=anthropic\&logoColor=white)
-
-## 💼 Experience
-
-### Linkrunner · Founding Engineer
-
-Built core backend, frontend, cloud infrastructure, and distributed systems from **0 → 1**. Worked across data pipelines, cloud workers, production deployments, and scalable real-time systems.
-
-### Respan · Backend & Infrastructure Engineer
-
-working in backend engineering team, helping in scaling observibility system and making things faster and smooth.
-
-### PetPooja · Software Engineer
-
-Worked on backend systems and infrastructure, including **compute optimization and Redis-based caching** to improve system performance and reduce infrastructure costs.
 
 ## 🔗 Connect
 
