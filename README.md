@@ -32,10 +32,6 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanBhosale&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=F9F871&area=true&area_color=D300C5&title_color=FF2A6D&custom_title=Contribution%20Signal" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/ChetanBhosale/ChetanBhosale/output/github-snake-cyber.svg" />
 </p>
 
